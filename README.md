@@ -1,7 +1,5 @@
 # 👋 Tu Pham
-**Junior studying Computer Science student at UW–Madison**  
-I'm a junior majoring in Computer Science and Data Science at UW-Madison. I am interested in building backend systems, distributed database, system optimizations and Operating system projects
-that align deeply with infrastructures challenges and performance engineering.
+I'm a junior majoring in Computer Science and Data Science at UW-Madison. I am interested in building backend systems, distributed database, system optimizations and operating system projects. Send me a dm if you want to ask something or know more about me!
 
 ## 🧰 Languages & Tools (stuff I actually use)
 
